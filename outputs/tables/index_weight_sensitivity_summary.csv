@@ -1,0 +1,5 @@
+﻿scenario,spearman_vs_baseline,top10_overlap
+baseline,1.0,10
+equal_weights,0.9968,10
+digital_priority,0.9958,10
+industry_priority,0.9874,10
