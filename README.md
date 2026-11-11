@@ -128,3 +128,17 @@ The repository contains selected analytical scripts and derived research outputs
 ## License
 
 A repository license will be specified after reviewing the licensing conditions of the included code and derived materials.
+
+## Installation and Setup
+
+### Requirements
+- Python 3.12.7
+- pip
+
+### Environment Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/kostarikanez/russia-africa-technology-cooperation.git
+cd russia-africa-technology-cooperation
